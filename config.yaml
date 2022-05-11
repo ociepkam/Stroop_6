@@ -1,0 +1,72 @@
+ophthalmic_procedure: False
+
+Training1_trials_con_con: 0
+Training1_trials_con_neu: 0
+Training1_trials_inc_neu: 0
+Training1_trials_inc1_inc2: 0
+Training1_trials_inc1_inc1: 0
+Training1_trials_con_con_bil1: 0  # bold, italic, lowercase
+Training1_trials_con_neu_bil1: 0  # bold, italic, lowercase
+Training1_trials_inc_neu_bil1: 0  # bold, italic, lowercase
+Training1_trials_inc1_inc2_bil1: 0  # bold, italic, lowercase
+Training1_trials_inc1_inc1_bil1: 0  # bold, italic, lowercase
+Training1_trials_con_con_bil2: 0  # bold, italic, lowercase
+Training1_trials_con_neu_bil2: 0  # bold, italic, lowercase
+Training1_trials_inc_neu_bil2: 0  # bold, italic, lowercase
+Training1_trials_inc1_inc2_bil2: 0  # bold, italic, lowercase
+Training1_trials_inc1_inc1_bil2: 0  # bold, italic, lowercase
+Training1_trials_neutral: 10
+Training1_trials_neutral_2: 0
+
+
+Training2_trials_con_con: 16
+Training2_trials_con_neu: 0
+Training2_trials_inc_neu: 0
+Training2_trials_inc1_inc2: 4
+Training2_trials_inc1_inc1: 4
+Training2_trials_con_con_bil1: 0  # bold, italic, lowercase
+Training2_trials_con_neu_bil1: 0  # bold, italic, lowercase
+Training2_trials_inc_neu_bil1: 0  # bold, italic, lowercase
+Training2_trials_inc1_inc2_bil1: 8  # bold, italic, lowercase
+Training2_trials_inc1_inc1_bil1: 8  # bold, italic, lowercase
+Training2_trials_con_con_bil2: 16  # bold, italic, lowercase
+Training2_trials_con_neu_bil2: 0  # bold, italic, lowercase
+Training2_trials_inc_neu_bil2: 0  # bold, italic, lowercase
+Training2_trials_inc1_inc2_bil2: 4  # bold, italic, lowercase
+Training2_trials_inc1_inc1_bil2: 4  # bold, italic, lowercase
+Training2_trials_neutral: 0
+Training2_trials_neutral_2: 0
+
+Training_Resp_time: 4
+Training_Wait_time: 1
+
+Number_of_blocks: 1
+
+Experiment_trials_con_con: 160
+Experiment_trials_con_neu: 0
+Experiment_trials_inc_neu: 0
+Experiment_trials_inc1_inc2: 40
+Experiment_trials_inc1_inc1: 40
+Experiment_trials_con_con_bil1: 0  # bold, italic, lowercase
+Experiment_trials_con_neu_bil1: 0  # bold, italic, lowercase
+Experiment_trials_inc_neu_bil1: 0  # bold, italic, lowercase
+Experiment_trials_inc1_inc2_bil1: 80  # bold, italic, lowercase
+Experiment_trials_inc1_inc1_bil1: 80  # bold, italic, lowercase
+Experiment_trials_con_con_bil2: 160  # bold, italic, lowercase
+Experiment_trials_con_neu_bil2: 0  # bold, italic, lowercase
+Experiment_trials_inc_neu_bil2: 0  # bold, italic, lowercase
+Experiment_trials_inc1_inc2_bil2: 40  # bold, italic, lowercase
+Experiment_trials_inc1_inc1_bil2: 40  # bold, italic, lowercase
+Experiment_trials_neutral: 0
+Experiment_trials_neutral_2: 0
+
+Experiment_Resp_time: 3
+Experiment_Wait_time: 1
+
+Jitter: 1 # adds [0, Jitter] s to Experiment_Wait_time
+
+Fix_time: 1
+Feedb: True
+Feedb_time: 1
+
+words_dist: 40
