@@ -224,7 +224,7 @@ for idx, block in enumerate(training_trials):
 
 show_info(win, join('.', 'messages', 'instruction.txt'), insert=keys_mapping_text)
 
-show_info(win, join('.', 'messages', 's.txt'))
+# show_info(win, join('.', 'messages', 's.txt'))
 MAIN_TIME.reset()
 
 for idx, block in enumerate(blocks):
